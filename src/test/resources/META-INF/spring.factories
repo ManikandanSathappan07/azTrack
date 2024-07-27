@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.mani.aztrack.\
+    config.SqlTestContainersSpringContextCustomizerFactory,com.mani.aztrack.\
+    config.TestContainersSpringContextCustomizerFactory,com.mani.aztrack.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
